@@ -1,4 +1,4 @@
-# Expences Traker
+# Expenses Traker
 
 <br>
 
